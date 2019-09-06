@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="17123" started-at="2019-09-06T01:19:32Z" finished-at="2019-09-06T01:19:49Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="17123" started-at="2019-09-06T01:19:32Z" finished-at="2019-09-06T01:19:49Z">
+      <class name="com.FR.TestCases.ExecuteTest">
+        <test-method status="PASS" signature="verifyLaunchApplication()[pri:0, instance:com.FR.TestCases.ExecuteTest@6093dd95]" name="verifyLaunchApplication" duration-ms="1452" started-at="2019-09-06T01:19:38Z" finished-at="2019-09-06T01:19:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLaunchApplication -->
+        <test-method status="PASS" signature="verifylogin()[pri:0, instance:com.FR.TestCases.ExecuteTest@6093dd95]" name="verifylogin" duration-ms="5115" started-at="2019-09-06T01:19:40Z" finished-at="2019-09-06T01:19:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifylogin -->
+        <test-method status="PASS" signature="verifyTicketBooking()[pri:2, instance:com.FR.TestCases.ExecuteTest@6093dd95]" name="verifyTicketBooking" duration-ms="3533" started-at="2019-09-06T01:19:45Z" finished-at="2019-09-06T01:19:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyTicketBooking -->
+      </class> <!-- com.FR.TestCases.ExecuteTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
